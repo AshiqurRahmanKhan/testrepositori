@@ -4,12 +4,6 @@ let name = "Ashiqur"
 
 console.log(name);
 
-
-
-
-
-
-
 /* write my Bio(By grouping closely related data )
 ===============================================
 I am Ashiqur Rahman & 25. I'm web developer. I love "javascript".
@@ -21,7 +15,6 @@ I am Ashiqur Rahman & 25. I'm web developer. I love "javascript".
 5. Calling the reference 
 
 */
-
 
 // 1. Create Array and 2 data s
 
@@ -38,14 +31,7 @@ let addMyBio = myBio[0] +" "+ myBio[1]+ " " + myBio[2] +" "+ myBio[3];
 
 console.log(addMyBio);
 
-
-
-
-
-
-
-
-		/*write down the memory space and call them
+	        /*write down the memory space and call them
 		============================================
 		 karim is bad boy
 		 karim is a "bad" boy
